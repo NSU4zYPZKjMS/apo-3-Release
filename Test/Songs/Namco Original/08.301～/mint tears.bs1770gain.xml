@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="mint&#x20;tears&#x2E;ogg">
+      <integrated lufs="-14.08" lu="-8.92" />
+      <true-peak tpfs="-1.66" factor="0.826266" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-14.08" lu="-8.92" />
+      <true-peak tpfs="-1.66" factor="0.826266" />
+    </summary>
+  </album>
+</bs1770gain>

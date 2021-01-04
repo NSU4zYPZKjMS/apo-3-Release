@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="Ignis&#x20;Danse&#x2E;ogg">
+      <integrated lufs="-11.38" lu="-11.62" />
+      <true-peak tpfs="-0.04" factor="0.995420" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-11.38" lu="-11.62" />
+      <true-peak tpfs="-0.04" factor="0.995420" />
+    </summary>
+  </album>
+</bs1770gain>

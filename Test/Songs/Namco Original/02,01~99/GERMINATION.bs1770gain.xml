@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="GERMINATION&#x2E;ogg">
+      <integrated lufs="-13.25" lu="-9.75" />
+      <true-peak tpfs="0.25" factor="1.029593" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-13.25" lu="-9.75" />
+      <true-peak tpfs="0.25" factor="1.029593" />
+    </summary>
+  </album>
+</bs1770gain>

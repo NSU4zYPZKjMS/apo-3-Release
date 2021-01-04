@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="&#x79CB;&#x7ADC;&#x20;&#xFF5E;Shiuryu&#xFF5E;&#x2E;ogg">
+      <integrated lufs="-12.46" lu="-10.54" />
+      <true-peak tpfs="0.77" factor="1.093084" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-12.46" lu="-10.54" />
+      <true-peak tpfs="0.77" factor="1.093084" />
+    </summary>
+  </album>
+</bs1770gain>

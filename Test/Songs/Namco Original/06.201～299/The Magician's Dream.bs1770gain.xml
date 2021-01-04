@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="The&#x20;Magician&#x27;s&#x20;Dream&#x2E;ogg">
+      <integrated lufs="-10.62" lu="-12.38" />
+      <true-peak tpfs="0.68" factor="1.081831" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-10.62" lu="-12.38" />
+      <true-peak tpfs="0.68" factor="1.081831" />
+    </summary>
+  </album>
+</bs1770gain>

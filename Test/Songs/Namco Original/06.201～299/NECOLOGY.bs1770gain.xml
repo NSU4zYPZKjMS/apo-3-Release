@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="NECOLOGY&#x2E;ogg">
+      <integrated lufs="-8.61" lu="-14.39" />
+      <true-peak tpfs="2.00" factor="1.258779" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-8.61" lu="-14.39" />
+      <true-peak tpfs="2.00" factor="1.258779" />
+    </summary>
+  </album>
+</bs1770gain>

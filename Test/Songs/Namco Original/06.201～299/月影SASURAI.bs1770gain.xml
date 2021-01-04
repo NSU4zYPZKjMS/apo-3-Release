@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="&#x6708;&#x5F71;SASURAI&#x2E;ogg">
+      <integrated lufs="-10.88" lu="-12.12" />
+      <true-peak tpfs="0.72" factor="1.086067" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-10.88" lu="-12.12" />
+      <true-peak tpfs="0.72" factor="1.086067" />
+    </summary>
+  </album>
+</bs1770gain>

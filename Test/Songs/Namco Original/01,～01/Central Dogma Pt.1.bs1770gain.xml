@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="Central&#x20;Dogma&#x20;Pt&#x2E;1&#x2E;ogg">
+      <integrated lufs="-10.67" lu="-12.33" />
+      <true-peak tpfs="0.31" factor="1.035912" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-10.67" lu="-12.33" />
+      <true-peak tpfs="0.31" factor="1.035912" />
+    </summary>
+  </album>
+</bs1770gain>

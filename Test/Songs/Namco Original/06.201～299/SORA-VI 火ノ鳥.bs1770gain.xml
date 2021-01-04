@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="SORA&#x2D;VI&#x20;&#x706B;&#x30CE;&#x9CE5;&#x2E;ogg">
+      <integrated lufs="-14.97" lu="-8.03" />
+      <true-peak tpfs="-1.15" factor="0.875665" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-14.97" lu="-8.03" />
+      <true-peak tpfs="-1.15" factor="0.875665" />
+    </summary>
+  </album>
+</bs1770gain>

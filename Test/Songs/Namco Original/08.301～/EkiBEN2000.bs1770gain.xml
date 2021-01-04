@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="EkiBEN2000&#x2E;ogg">
+      <integrated lufs="-6.89" lu="-16.11" />
+      <true-peak tpfs="2.78" factor="1.377793" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-6.89" lu="-16.11" />
+      <true-peak tpfs="2.78" factor="1.377793" />
+    </summary>
+  </album>
+</bs1770gain>

@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="Don&#x27;t&#x20;Stop&#x20;the&#x20;Game&#x2E;ogg">
+      <integrated lufs="-10.96" lu="-12.04" />
+      <true-peak tpfs="0.47" factor="1.055389" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-10.96" lu="-12.04" />
+      <true-peak tpfs="0.47" factor="1.055389" />
+    </summary>
+  </album>
+</bs1770gain>

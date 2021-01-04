@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="Princess&#x20;of&#x20;Donder&#x2E;ogg">
+      <integrated lufs="-9.11" lu="-13.89" />
+      <true-peak tpfs="0.86" factor="1.103782" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-9.11" lu="-13.89" />
+      <true-peak tpfs="0.86" factor="1.103782" />
+    </summary>
+  </album>
+</bs1770gain>

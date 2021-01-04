@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="&#x8776;&#x6200;&#x20;&#xFF5E;Obsession&#xFF5E;&#x2E;ogg">
+      <integrated lufs="-10.45" lu="-12.55" />
+      <true-peak tpfs="0.08" factor="1.009273" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-10.45" lu="-12.55" />
+      <true-peak tpfs="0.08" factor="1.009273" />
+    </summary>
+  </album>
+</bs1770gain>

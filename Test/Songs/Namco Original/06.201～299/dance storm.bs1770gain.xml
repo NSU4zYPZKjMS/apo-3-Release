@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="dance&#x20;storm&#x2E;ogg">
+      <integrated lufs="-10.81" lu="-12.19" />
+      <true-peak tpfs="0.79" factor="1.094795" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-10.81" lu="-12.19" />
+      <true-peak tpfs="0.79" factor="1.094795" />
+    </summary>
+  </album>
+</bs1770gain>

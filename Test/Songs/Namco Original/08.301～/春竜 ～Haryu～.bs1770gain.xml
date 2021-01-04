@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="&#x6625;&#x7ADC;&#x20;&#xFF5E;Haryu&#xFF5E;&#x2E;ogg">
+      <integrated lufs="-10.73" lu="-12.27" />
+      <true-peak tpfs="1.83" factor="1.233853" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-10.73" lu="-12.27" />
+      <true-peak tpfs="1.83" factor="1.233853" />
+    </summary>
+  </album>
+</bs1770gain>

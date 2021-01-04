@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="Turquoise&#x20;Tachometer&#x2E;ogg">
+      <integrated lufs="-8.31" lu="-14.69" />
+      <true-peak tpfs="1.12" factor="1.138056" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-8.31" lu="-14.69" />
+      <true-peak tpfs="1.12" factor="1.138056" />
+    </summary>
+  </album>
+</bs1770gain>

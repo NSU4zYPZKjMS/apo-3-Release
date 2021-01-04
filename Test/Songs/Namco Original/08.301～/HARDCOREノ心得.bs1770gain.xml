@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="HARDCORE&#x30CE;&#x5FC3;&#x5F97;&#x2E;ogg">
+      <integrated lufs="-11.08" lu="-11.92" />
+      <true-peak tpfs="-0.18" factor="0.979550" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-11.08" lu="-11.92" />
+      <true-peak tpfs="-0.18" factor="0.979550" />
+    </summary>
+  </album>
+</bs1770gain>

@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="&#x6BD2;LO&#xFF23;&#xFF21;&#xFF2E;dy&#x2E;ogg">
+      <integrated lufs="-9.04" lu="-13.96" />
+      <true-peak tpfs="0.90" factor="1.109590" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-9.04" lu="-13.96" />
+      <true-peak tpfs="0.90" factor="1.109590" />
+    </summary>
+  </album>
+</bs1770gain>

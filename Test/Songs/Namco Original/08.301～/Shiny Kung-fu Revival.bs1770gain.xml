@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="Shiny&#x20;Kung&#x2D;fu&#x20;Revival&#x2E;ogg">
+      <integrated lufs="-11.37" lu="-11.63" />
+      <true-peak tpfs="1.10" factor="1.134782" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-11.37" lu="-11.63" />
+      <true-peak tpfs="1.10" factor="1.134782" />
+    </summary>
+  </album>
+</bs1770gain>

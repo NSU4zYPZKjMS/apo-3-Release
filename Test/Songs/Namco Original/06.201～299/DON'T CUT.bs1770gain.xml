@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="DON&#x27;T&#x20;CUT&#x2E;ogg">
+      <integrated lufs="-9.72" lu="-13.28" />
+      <true-peak tpfs="0.25" factor="1.029187" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-9.72" lu="-13.28" />
+      <true-peak tpfs="0.25" factor="1.029187" />
+    </summary>
+  </album>
+</bs1770gain>

@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="Behemoth&#x2E;ogg">
+      <integrated lufs="-10.35" lu="-12.65" />
+      <true-peak tpfs="0.37" factor="1.043807" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-10.35" lu="-12.65" />
+      <true-peak tpfs="0.37" factor="1.043807" />
+    </summary>
+  </album>
+</bs1770gain>

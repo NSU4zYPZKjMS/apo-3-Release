@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="Choco&#x20;Chiptune&#x2E;&#x2E;ogg">
+      <integrated lufs="-10.59" lu="-12.41" />
+      <true-peak tpfs="1.29" factor="1.160527" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-10.59" lu="-12.41" />
+      <true-peak tpfs="1.29" factor="1.160527" />
+    </summary>
+  </album>
+</bs1770gain>

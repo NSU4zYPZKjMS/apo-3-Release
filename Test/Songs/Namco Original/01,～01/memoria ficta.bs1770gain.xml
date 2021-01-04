@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="memoria&#x20;ficta&#x2E;ogg">
+      <integrated lufs="-11.52" lu="-11.48" />
+      <true-peak tpfs="0.47" factor="1.055946" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-11.52" lu="-11.48" />
+      <true-peak tpfs="0.47" factor="1.055946" />
+    </summary>
+  </album>
+</bs1770gain>

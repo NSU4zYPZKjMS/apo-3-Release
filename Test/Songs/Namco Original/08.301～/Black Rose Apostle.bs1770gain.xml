@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="Black&#x20;Rose&#x20;Apostle&#x2E;ogg">
+      <integrated lufs="-10.17" lu="-12.83" />
+      <true-peak tpfs="0.89" factor="1.107301" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-10.17" lu="-12.83" />
+      <true-peak tpfs="0.89" factor="1.107301" />
+    </summary>
+  </album>
+</bs1770gain>

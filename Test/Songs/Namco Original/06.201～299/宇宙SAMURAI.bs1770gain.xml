@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="&#x5B87;&#x5B99;SAMURAI&#x2E;ogg">
+      <integrated lufs="-9.99" lu="-13.01" />
+      <true-peak tpfs="0.59" factor="1.070356" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-9.99" lu="-13.01" />
+      <true-peak tpfs="0.59" factor="1.070356" />
+    </summary>
+  </album>
+</bs1770gain>

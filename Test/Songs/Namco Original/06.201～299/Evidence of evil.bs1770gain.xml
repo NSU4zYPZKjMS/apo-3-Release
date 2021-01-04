@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="Evidence&#x20;of&#x20;evil&#x2E;ogg">
+      <integrated lufs="-8.94" lu="-14.06" />
+      <true-peak tpfs="3.21" factor="1.447718" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-8.94" lu="-14.06" />
+      <true-peak tpfs="3.21" factor="1.447718" />
+    </summary>
+  </album>
+</bs1770gain>

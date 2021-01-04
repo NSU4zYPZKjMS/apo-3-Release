@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="poxei&#x25C6;DOON&#x2E;ogg">
+      <integrated lufs="-11.19" lu="-11.81" />
+      <true-peak tpfs="0.02" factor="1.001778" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-11.19" lu="-11.81" />
+      <true-peak tpfs="0.02" factor="1.001778" />
+    </summary>
+  </album>
+</bs1770gain>

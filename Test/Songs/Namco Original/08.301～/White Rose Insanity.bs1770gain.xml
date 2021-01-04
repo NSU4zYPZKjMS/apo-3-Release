@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="White&#x20;Rose&#x20;Insanity&#x2E;ogg">
+      <integrated lufs="-15.42" lu="-7.58" />
+      <true-peak tpfs="-1.76" factor="0.816135" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-15.42" lu="-7.58" />
+      <true-peak tpfs="-1.76" factor="0.816135" />
+    </summary>
+  </album>
+</bs1770gain>

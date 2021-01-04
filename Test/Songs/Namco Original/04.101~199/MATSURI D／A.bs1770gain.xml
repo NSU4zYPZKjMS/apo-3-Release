@@ -1,0 +1,12 @@
+<bs1770gain>
+  <album>
+    <track total="1" number="1" file="MATSURI&#x20;D&#xFF0F;A&#x2E;ogg">
+      <integrated lufs="-8.43" lu="-14.57" />
+      <true-peak tpfs="2.48" factor="1.331179" />
+    </track>
+    <summary total="1">
+      <integrated lufs="-8.43" lu="-14.57" />
+      <true-peak tpfs="2.48" factor="1.331179" />
+    </summary>
+  </album>
+</bs1770gain>
